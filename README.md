@@ -76,21 +76,22 @@ These are the features that will be implemented next:
 git clone https://github.com/Physiix/topsi-project-manager
 # Install dependencies (you can use npm too)
 yarn
-## Project setup
 ```
 
+## Project setup
+```
 yarn install
-
 ```
 
 # Run in developer mode
+```
 yarn run dev
-
-# Build the executable
 ```
 
-yarn build
+# Build the executable
 
+```
+yarn build
 ```
 
 ## Contributions
@@ -108,4 +109,4 @@ contributing code, writing documentation, …
 
 ## License
 AGPLv3
-```
+
